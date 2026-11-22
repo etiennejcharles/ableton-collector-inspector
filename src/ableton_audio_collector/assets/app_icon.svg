@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9cbd1"/>
+      <stop offset="1" stop-color="#aeb2ba"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="32" width="960" height="960" rx="210" fill="#7c7e8b"/>
+  <rect x="78" y="78" width="868" height="868" rx="170" fill="url(#face)" stroke="#20242a" stroke-width="18"/>
+  <path d="M96 292H928M96 448H928M96 604H928M96 760H928" stroke="#646874" stroke-width="10"/>
+  <path d="M292 96V824M448 96V824M604 96V824M760 96V824" stroke="#646874" stroke-width="10"/>
+  <rect x="106" y="106" width="176" height="176" fill="#f0e82c" stroke="#20242a" stroke-width="12"/>
+  <rect x="302" y="106" width="136" height="176" fill="#f8889c" stroke="#20242a" stroke-width="12"/>
+  <rect x="458" y="106" width="136" height="176" fill="#7559a7" stroke="#20242a" stroke-width="12"/>
+  <rect x="614" y="106" width="136" height="176" fill="#889cf4" stroke="#20242a" stroke-width="12"/>
+  <path d="M512 336V650" stroke="#20242a" stroke-width="82" stroke-linecap="square"/>
+  <path d="M354 564L512 722L670 564" fill="none" stroke="#20242a" stroke-width="82" stroke-linejoin="miter"/>
+  <rect x="236" y="744" width="552" height="118" fill="#edb450" stroke="#20242a" stroke-width="20"/>
+  <path d="M318 803H706" stroke="#20242a" stroke-width="18" stroke-dasharray="32 24"/>
+</svg>
